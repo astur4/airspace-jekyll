@@ -21,7 +21,7 @@ url: "http://luminousrubyist.github.io" # the base hostname & protocol for your 
 
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
-
+baseurl: ""
 # Build settings
 markdown: kramdown
 
